@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Checks structural integrity of payloads against predefined JSON schemas. [Variant 235 using CPP with Synthwave theme]
+  name: go-json-v235 version: 1.0 type: Repository author: VarshuAi description: >   Checks structural integrity of payloads against predefined JSON schemas. [Variant 235 using CPP with Synthwave theme] primary_tech: C++
 primary_tech: C++
 ```
 
